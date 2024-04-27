@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="default-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="spring-boot-default-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.Application" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
